@@ -1,10 +1,18 @@
 # OLER
 
 Code repository for our paper “Object Localization and Edge Refinement Network for Salient Object Detection”. 
-The paper has been submitted to Expert Systems with Applications.
+The paper has been accepted by Expert Systems with Applications.
 
-The authors declare that the code will be released as soon as the paper is accepted.
-Now, the results have been released.
+## Prerequisites
+- [Pytorch 1.7](http://pytorch.org/)
+
+## Code
+### test
+
+-Please download the pretrained model for OLER into `model` folder, which can be found at ([Baidu Netdisk](https://pan.baidu.com/s/15w7tTToqHlhfVtlFSN3mHQ ) (code:apwr) or [Google Drive](https://drive.google.com/file/d/11LXjaHvhvQKyvfSc2HwqeKjTrJlyTbnd/view?usp=sharing))
+
+-Run test.py
+
 ## Saliency maps
 The saliency maps produced by our network can be found at [Baidu Netdisk](https://pan.baidu.com/s/10iPhihwGufC2k7rML2O1hw) (code:oler) or [Google Drive](https://drive.google.com/file/d/1p_IsVTTWjr9f9eDlTFhYl3fIBQ1lzbxd/view?usp=sharing).
 
